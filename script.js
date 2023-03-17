@@ -24,3 +24,4 @@ document.querySelector("#hoha").onclick = function(){
     document.getElementById("demo").innerHTML = ass[joke];
 
 }
+console.log("че пялишь")
